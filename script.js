@@ -20,6 +20,3 @@ const particles = Particles.init({
   ]
 });
 
-
-
-new NavigationPage();
