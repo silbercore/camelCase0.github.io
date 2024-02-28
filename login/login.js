@@ -11,7 +11,7 @@ $(document).ready(function() {
       };
       $.ajax({
         type: "POST",
-        url: "https://0.0.0.0:8000/auth/jwt/login",
+        url: "https://64.225.5.39:8000/auth/jwt/login",
         data: formData,
         dataType: "json",
         success: function(response) {
