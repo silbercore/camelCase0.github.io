@@ -19,4 +19,3 @@ const particles = Particles.init({
     }
   ]
 });
-
